@@ -1,0 +1,21 @@
+# Maven build directory
+target/
+
+# IDE configurations
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Log files
+*.log
+
+# Maven Wrapper executable JAR (will be downloaded automatically)
+.mvn/wrapper/maven-wrapper.jar
